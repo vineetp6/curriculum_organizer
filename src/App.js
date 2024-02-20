@@ -1,4 +1,3 @@
-// CurriculumOrganizer.js
 import React, { useState, useEffect } from 'react';
 import './CurriculumOrganizer.css'; // Import CSS file for styling
 
